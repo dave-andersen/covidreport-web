@@ -13,7 +13,10 @@
     <link rel="stylesheet" href="https://pacovidreport.org/glightbox.min.css">
     <script type="text/javascript" src="https://pacovidreport.org/glightbox.min.js">
     <script type="text/javascript">
-       const lightbox = GLightbox({});
+       const lightbox = GLightbox();
+	lightbox.on('open', (target) => {
+		console.log('lightbox opened');
+	});
     </script>
 
     
