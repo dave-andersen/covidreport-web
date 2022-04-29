@@ -158,4 +158,40 @@ more than 2 weeks ago, still normalish.&lt;&#x2F;p&gt;
 &lt;p&gt;Cases in Philly continue dropping while cases in Allegheny are rising still.&lt;&#x2F;p&gt;
 </content>
 	</entry>
+	<entry xml:lang="en">
+		<title>About the PA Covid Report</title>
+		<published>2022-04-27T00:00:00+00:00</published>
+		<updated>2022-04-27T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/about/" type="text/html"/>
+		<id>https://pacovidreport.org/about/</id>
+		<content type="html">&lt;p&gt;This is a competely unofficial compilation of data from
+the PA Department of Health, the Allegheny County Department of
+Health, the Western PA Regional Datacenter, and the CDC. The
+author has no affiliation with any of the data sources,
+and no financial interest in anything covid-related.&lt;&#x2F;p&gt;
+&lt;p&gt;As I note on my &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;dave_andersen&quot;&gt;twitter account
+where all this started&lt;&#x2F;a&gt;, I (David Andersen) am neither a virologist,
+epidemiologist, or medical professional. So I do encourage you to
+let me know if anything I say conflicts with what you&#x27;re hearing from
+experts, and trust them first and foremost.&lt;&#x2F;p&gt;
+&lt;p&gt;Why &lt;i&gt;do&lt;&#x2F;i&gt; I feel qualified to do this, then? I do have a background
+in biology, with a BS in biology and having spent a small part of my Ph.D.
+working on computational biology. As a computer science professor,
+I spend a lot of time on data analysis.&lt;&#x2F;p&gt;
+&lt;p&gt;Why you might find value in these reports: I try to integrate what we&#x27;re
+hearing from experts with a lot of Pennsylvania and Pittsburgh-specific
+data analysis, because understanding the quirks of the local data and
+situation is helpful in making sense of it. Every covid data source
+has its quirks (unfortunately), and context does matter.&lt;&#x2F;p&gt;
+&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dave-andersen&#x2F;covidreport&quot;&gt;code that puts the reports together&lt;&#x2F;a&gt; is open source, written in Rust (mostly for fun, it
+probably would have been easier in Python).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;primary-data-sources&quot;&gt;Primary data sources&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;data.pa.gov&#x2F;Covid-19&#x2F;COVID-19-Aggregate-Cases-Current-Daily-County-Heal&#x2F;j72v-r42c&quot;&gt;PA Cases&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;data.pa.gov&#x2F;Covid-19&#x2F;COVID-19-Aggregate-Hospitalizations-Current-Daily-&#x2F;kayn-sjhx&quot;&gt;PA Hospitalization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.wprdc.org&#x2F;&quot;&gt;WPRDC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;covid.cdc.gov&#x2F;covid-data-tracker&#x2F;#variant-proportions&quot;&gt;CDC Variant Proportions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 </feed>
