@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title></title>
+	<title>PA&#x2F;Allegheny County Covid Report</title>
+	<subtitle>A daily report of cases, hospitalizations, and ICU status for PA, with commentary about variants</subtitle>
 	<link href="https://pacovidreport.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pacovidreport.org/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
