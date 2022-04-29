@@ -195,4 +195,84 @@ probably would have been easier in Python).&lt;&#x2F;p&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
+	<entry xml:lang="en">
+		<title>2022-04-26</title>
+		<published>2022-04-26T00:00:00+00:00</published>
+		<updated>2022-04-26T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20220426/" type="text/html"/>
+		<id>https://pacovidreport.org/20220426/</id>
+		<content type="html">&lt;h1 id=&quot;allegheny-county-pennsylvania-covid-hospitalization-variants-thread-for-2022-04-26&quot;&gt;Allegheny County &amp;amp; Pennsylvania #covid hospitalization &amp;amp; variants thread for 2022-04-26&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;allegheny-county&quot;&gt;Allegheny County&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny reports 156 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are +13 to 72&lt;br &#x2F;&gt;
+ICUs are -3 to 8 (69% full)&lt;br &#x2F;&gt;
+Step0 7 day avg to 197 cases&#x2F;day&lt;br &#x2F;&gt;
+Step1 7 day avg to 189 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: High&lt;br &#x2F;&gt;
+CDC Community level: &lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;pennsylvania&quot;&gt;Pennsylvania&lt;&#x2F;h2&gt;
+&lt;p&gt;Pennsylvania reports 1538 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are +37 to 538&lt;br &#x2F;&gt;
+ICUs are -8 to 61 (77% full)&lt;br &#x2F;&gt;
+Step0 7 day avg to 1501 cases&#x2F;day&lt;br &#x2F;&gt;
+Step1 7 day avg to 1507 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: Substantial &lt;&#x2F;p&gt;
+&lt;p&gt;Today&#x27;s results reflect 13129 new PCR test results&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;vaccinations&quot;&gt;Vaccinations&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny County daily vaccines stay around 381 1st+2nd doses, 257 booster doses&#x2F;day
+(5 day lagged 7 day avg)&lt;&#x2F;p&gt;
+&lt;p&gt;Fully vaccinated %s:&lt;&#x2F;p&gt;
+&lt;p&gt;Allegheny County: 68.3%, 50.4% of those are boosted.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hospitalizations&quot;&gt;Hospitalizations&lt;&#x2F;h2&gt;
+&lt;p&gt;PA counties with full ICU beds due to covid:&lt;br &#x2F;&gt;
+None&lt;&#x2F;p&gt;
+&lt;p&gt;PA-wide hospital census: Using 16667 med&#x2F;surg beds, 332 more than last week, 51 more than 2 weeks ago.&lt;&#x2F;p&gt;
+&lt;p&gt;Statewide covid+ hospitalizations jumped a bit today, have to see what happens.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variants&quot;&gt;Variants&lt;&#x2F;h2&gt;
+&lt;p&gt;CDC estimates BA.2.12.1 at 28%, still growing well but a little more slowly than BA.2 did; dominant in NY now. Cases in NY have been growing fairly slowly despite that shift - one suspects would be dropping otherwise. Cases &amp;amp; wastewater in MA trending
+down (but w&#x2F;out as much 12)&lt;&#x2F;p&gt;
+</content>
+	</entry>
 </feed>
