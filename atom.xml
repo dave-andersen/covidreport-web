@@ -219,6 +219,13 @@ probably would have been easier in Python).&lt;&#x2F;p&gt;
 &lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.wprdc.org&#x2F;&quot;&gt;WPRDC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;covid.cdc.gov&#x2F;covid-data-tracker&#x2F;#variant-proportions&quot;&gt;CDC Variant Proportions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;this-site-and-credits&quot;&gt;This site and credits&lt;&#x2F;h2&gt;
+&lt;p&gt;Site generated using the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; static website
+generator using the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;themes&#x2F;anpu&#x2F;&quot;&gt;Anpu&lt;&#x2F;a&gt; theme.
+This site collects privacy-focused analytics using &lt;a href=&quot;https:&#x2F;&#x2F;www.goatcounter.com&#x2F;&quot;&gt;goatcounter&lt;&#x2F;a&gt;;
+no cookies or personal information are tracked. Image support using
+&lt;a href=&quot;https:&#x2F;&#x2F;biati-digital.github.io&#x2F;glightbox&#x2F;&quot;&gt;glightbox&lt;&#x2F;a&gt;. The site
+is hosted on &lt;a href=&quot;https:&#x2F;&#x2F;pages.github.com&#x2F;&quot;&gt;github pages&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
