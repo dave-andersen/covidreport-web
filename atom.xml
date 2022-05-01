@@ -5,8 +5,25 @@
 	<link href="https://pacovidreport.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pacovidreport.org/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-04-30T00:00:00+00:00</updated>
+	<updated>2022-05-01T00:00:00+00:00</updated>
 	<id>https://pacovidreport.org/atom.xml</id>
+	<entry xml:lang="en">
+		<title>2022-05-01</title>
+		<published>2022-05-01T00:00:00+00:00</published>
+		<updated>2022-05-01T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20220501/" type="text/html"/>
+		<id>https://pacovidreport.org/20220501/</id>
+		<content type="html">&lt;p&gt;No updates; the PA Department of Health did not update the data feeds again
+today. See &lt;a href=&quot;&#x2F;20220429&quot;&gt;Friday&#x27;s report&lt;&#x2F;a&gt; for some explanation
+of the feeds.&lt;&#x2F;p&gt;
+&lt;p&gt;Data from the PA covid alerting app suggests continued growth in daily
+cases for both PA and Allegheny County but without confirming which data
+source it comes from, holding off reporting precise numbers. Covid+ hospitalizations
+statewide increased from 621 on Thursday to 651 today.&lt;&#x2F;p&gt;
+&lt;p&gt;(The fact that the app is still working suggests the problem is only in getting
+data from PA-NEDSS into PA Open Data, so hopefully that will be fixed tomorrow.)&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>2022-04-30</title>
 		<published>2022-04-30T00:00:00+00:00</published>
