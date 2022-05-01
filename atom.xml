@@ -301,4 +301,79 @@ None&lt;&#x2F;p&gt;
 down (but w&#x2F;out as much 12)&lt;&#x2F;p&gt;
 </content>
 	</entry>
+	<entry xml:lang="en">
+		<title>2022-04-25</title>
+		<published>2022-04-25T00:00:00+00:00</published>
+		<updated>2022-04-25T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20220425/" type="text/html"/>
+		<id>https://pacovidreport.org/20220425/</id>
+		<content type="html">&lt;h1 id=&quot;allegheny-county-pennsylvania-covid-hospitalization-variants-thread-for-2022-04-25&quot;&gt;Allegheny County &amp;amp; Pennsylvania #covid hospitalization &amp;amp; variants thread for 2022-04-25&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;allegheny-county&quot;&gt;Allegheny County&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny reports 144 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are +6 to 59&lt;br &#x2F;&gt;
+ICUs are +3 to 11 (70% full)&lt;br &#x2F;&gt;
+7 day avg stays at 191 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: High&lt;br &#x2F;&gt;
+CDC Community level: Low&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;pennsylvania&quot;&gt;Pennsylvania&lt;&#x2F;h2&gt;
+&lt;p&gt;Pennsylvania reports 1072 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are -3 to 501&lt;br &#x2F;&gt;
+ICUs are +5 to 69 (77% full)&lt;br &#x2F;&gt;
+7 day avg rises to 1486 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: Substantial&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Alleghey County daily vaccines drop to 381 1st+2nd doses, 247 booster doses&#x2F;day (5 day lagged 7 day avg)&lt;&#x2F;p&gt;
+&lt;p&gt;Fully vaccinated %s:&lt;&#x2F;p&gt;
+&lt;p&gt;Allegheny County: 68.3%, 50.4% of those are boosted.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hospitalizations&quot;&gt;Hospitalizations&lt;&#x2F;h2&gt;
+&lt;p&gt;PA counties with full ICU beds due to covid:&lt;&#x2F;p&gt;
+&lt;p&gt;PA-wide hospital census: Using 15971 med&#x2F;surg beds, 393 more than last week, 84 less than 2 weeks ago.&lt;&#x2F;p&gt;
+&lt;p&gt;Statewide covid+ hospitalizations continue to hang out between 500-509.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variants&quot;&gt;Variants&lt;&#x2F;h2&gt;
+&lt;p&gt;Little news on variants. Boston and Ontario wastewater continue a likely slow drop. New York cases continue slow rise. We&#x27;ll get an updated BA.2.12.1 estimate from CDC tomorrow.&lt;&#x2F;p&gt;
+&lt;p&gt;For the NE US, a question will be how BA.2.12.1 compares to BA.4 &amp;amp; 5, rising in South Africa.&lt;&#x2F;p&gt;
+&lt;p&gt;(I&#x27;m kind of suggesting that we probably don&#x27;t need to worry about &lt;em&gt;all&lt;&#x2F;em&gt; of them, even if &lt;em&gt;one&lt;&#x2F;em&gt; of them is able to cause cases to rise a bit longer in New York and, once it spreads, elsewhere. But this is a relatively low confidence hunch based upon similar-looking advantages.)&lt;&#x2F;p&gt;
+</content>
+	</entry>
 </feed>
