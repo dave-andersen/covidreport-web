@@ -5,8 +5,33 @@
 	<link href="https://pacovidreport.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pacovidreport.org/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-01T00:00:00+00:00</updated>
+	<updated>2022-05-02T00:00:00+00:00</updated>
 	<id>https://pacovidreport.org/atom.xml</id>
+	<entry xml:lang="en">
+		<title>2022-05-02</title>
+		<published>2022-05-02T00:00:00+00:00</published>
+		<updated>2022-05-02T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20220502/" type="text/html"/>
+		<id>https://pacovidreport.org/20220502/</id>
+		<content type="html">&lt;p&gt;The PA Department of Health did not update the data feeds again
+today. See &lt;a href=&quot;&#x2F;20220429&quot;&gt;Friday&#x27;s report&lt;&#x2F;a&gt; for some explanation
+of the feeds. Graphs will return when DOH fixes the data feeds.&lt;&#x2F;p&gt;
+&lt;p&gt;Gathering data from other sources:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;allegheny-county&quot;&gt;Allegheny County&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny County reported 247 new cases today. 
+Hospitalizations are up to 91 beds used;&lt;br &#x2F;&gt;
+ICUs are up up to 17 ICU beds used.&lt;br &#x2F;&gt;
+7 day avgerage cases rises to 247 cases&#x2F;day (not a typo, same as the new cases)&lt;br &#x2F;&gt;
+Transmission level: High&lt;br &#x2F;&gt;
+Community level: Low&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pennsylvania&quot;&gt;Pennsylvania&lt;&#x2F;h2&gt;
+&lt;p&gt;Pennsylvania reports 1466 new cases&lt;br &#x2F;&gt;
+Hospitalizations are up to 685 beds used&lt;br &#x2F;&gt;
+ICU use rises to 82 ICU beds used&lt;br &#x2F;&gt;
+7 day average rises to 1967 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission level: High&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>2022-05-01</title>
 		<published>2022-05-01T00:00:00+00:00</published>
