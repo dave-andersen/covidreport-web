@@ -5,8 +5,81 @@
 	<link href="https://pacovidreport.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pacovidreport.org/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-05-03T00:00:00+00:00</updated>
+	<updated>2022-05-04T00:00:00+00:00</updated>
 	<id>https://pacovidreport.org/atom.xml</id>
+	<entry xml:lang="en">
+		<title>2022-05-04</title>
+		<published>2022-05-04T00:00:00+00:00</published>
+		<updated>2022-05-04T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20220504/" type="text/html"/>
+		<id>https://pacovidreport.org/20220504/</id>
+		<content type="html">&lt;h1 id=&quot;allegheny-county-pennsylvania-covid-hospitalization-variants-thread-for-2022-05-04&quot;&gt;Allegheny County &amp;amp; Pennsylvania #covid hospitalization &amp;amp; variants thread for 2022-05-04&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;allegheny-county&quot;&gt;Allegheny County&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny reports 289 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are +14 to 113&lt;br &#x2F;&gt;
+ICUs are -3 to 15 (71% full)&lt;br &#x2F;&gt;
+7 day avg stays around 246-252 cases&#x2F;day
+Transmission risk: High&lt;br &#x2F;&gt;
+CDC Community level: Low&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;pennsylvania&quot;&gt;Pennsylvania&lt;&#x2F;h2&gt;
+&lt;p&gt;Pennsylvania reports 2615 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are +27 to 758&lt;br &#x2F;&gt;
+ICUs are -3 to 81 (77% full)&lt;br &#x2F;&gt;
+7 day avg rises to 2096 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: High&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;vaccinations&quot;&gt;Vaccinations&lt;&#x2F;h2&gt;
+&lt;p&gt;Alleghey County daily vaccines move to X 1st+2nd doses, Y booster doses&#x2F;day (5 day lagged 7 day avg)&lt;&#x2F;p&gt;
+&lt;p&gt;Fully vaccinated %s:&lt;&#x2F;p&gt;
+&lt;p&gt;Allegheny County: 68.3%, 50.5% of those are boosted, 8% of boosted got 4th dose.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hospitalizations&quot;&gt;Hospitalizations&lt;&#x2F;h2&gt;
+&lt;p&gt;PA counties with full ICU beds due to covid:&lt;br &#x2F;&gt;
+Clearfield (4 +covid patients in ICU)&lt;&#x2F;p&gt;
+&lt;p&gt;PA-wide hospital census: Using 16854 med&#x2F;surg beds, 14 less than last week, 363 more than 2 weeks ago.&lt;&#x2F;p&gt;
+&lt;p&gt;Probably a bit up due to covid load.&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>2022-05-03</title>
 		<published>2022-05-03T00:00:00+00:00</published>
