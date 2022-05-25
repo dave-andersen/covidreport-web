@@ -71,7 +71,10 @@ Transmission risk: High&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;
 &lt;h2 id=&quot;vaccinations&quot;&gt;Vaccinations&lt;&#x2F;h2&gt;
 &lt;p&gt;Alleghey County daily vaccine rate is 334 1st+2nd doses, 227 booster doses&#x2F;day (5 day lagged 7 day avg)&lt;&#x2F;p&gt;
-&lt;p&gt;Fully vaccinated %s will update later.&lt;&#x2F;p&gt;
+&lt;p&gt;Fully vaccinated %s:&lt;&#x2F;p&gt;
+&lt;p&gt;68.8% of Allegheny County is fully vaccinated;
+51% of those are boosted, and 13.5% of the boosted
+have had a second booster.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;hospitalizations&quot;&gt;Hospitalizations&lt;&#x2F;h2&gt;
 &lt;p&gt;PA counties with full ICU beds due to covid: None&lt;&#x2F;p&gt;
 &lt;p&gt;PA-wide hospital census: Using 16672 med&#x2F;surg beds, 216 less than last week, 67 more than 2 weeks ago.&lt;&#x2F;p&gt;
