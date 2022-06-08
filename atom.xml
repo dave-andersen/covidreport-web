@@ -5,8 +5,90 @@
 	<link href="https://pacovidreport.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pacovidreport.org/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-06-01T00:00:00+00:00</updated>
+	<updated>2022-06-08T00:00:00+00:00</updated>
 	<id>https://pacovidreport.org/atom.xml</id>
+	<entry xml:lang="en">
+		<title>2022-06-08</title>
+		<published>2022-06-08T00:00:00+00:00</published>
+		<updated>2022-06-08T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20220608/" type="text/html"/>
+		<id>https://pacovidreport.org/20220608/</id>
+		<content type="html">&lt;h1 id=&quot;allegheny-county-pennsylvania-covid-hospitalization-variants-thread-for-2022-06-08&quot;&gt;Allegheny County &amp;amp; Pennsylvania #covid hospitalization &amp;amp; variants thread for 2022-06-08&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;allegheny-county&quot;&gt;Allegheny County&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny reports 2891 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are +9 to 172&lt;br &#x2F;&gt;
+ICUs are -2 to 16 (71% full)&lt;br &#x2F;&gt;
+7 day avg drops to 412 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: High&lt;br &#x2F;&gt;
+CDC Community level: High&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;pennsylvania&quot;&gt;Pennsylvania&lt;&#x2F;h2&gt;
+&lt;p&gt;Pennsylvania reports 22564 new cases.&lt;br &#x2F;&gt;
+Hospitalizations are -29 to 1213&lt;br &#x2F;&gt;
+ICUs are -11 to 133 (78% full)&lt;br &#x2F;&gt;
+7 day avg drops to 3116 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: High&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Discussion: Last week was affected by Memorial Day; today&#x27;s
+data may still be slightly low b&#x2F;c of it, but last week was
+more affected by it; trend over three weeks: 623 -&amp;gt; 471 -&amp;gt; 412
+cases&#x2F;day; state: 4304 -&amp;gt; 346 -&amp;gt; 3116.&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;True&amp;quot; cases are definitely down from last week, and likely down
+from two weeks ago, though perhaps not by quite as much as it appears.
+Overall it&#x27;s probably safe to say cases peaked two weeks ago. This
+is backed up by hospitalizations barely starting to go down over the
+last few days (they lag cases by a week or two).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;vaccinations&quot;&gt;Vaccinations&lt;&#x2F;h2&gt;
+&lt;p&gt;Alleghey County daily vaccines drop to 284 1st+2nd doses, 261 booster doses&#x2F;day (5 day lagged 7 day avg)&lt;&#x2F;p&gt;
+&lt;p&gt;Fully vaccinated %s:&lt;&#x2F;p&gt;
+&lt;p&gt;Allegheny County: 69%, 51.2% of those are boosted, 14.6% of boosted got 4th dose.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hospitalizations&quot;&gt;Hospitalizations&lt;&#x2F;h2&gt;
+&lt;p&gt;PA counties with full ICU beds due to covid: 
+Clearfield (1 +covid patient in ICU)&lt;br &#x2F;&gt;
+Schuylkill (2)&lt;&#x2F;p&gt;
+&lt;p&gt;PA-wide hospital census: Using 16974 med&#x2F;surg beds, 126 more than last week, 77 less than 2 weeks ago.&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>2022-06-01</title>
 		<published>2022-06-01T00:00:00+00:00</published>
