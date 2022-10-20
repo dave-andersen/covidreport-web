@@ -5,8 +5,80 @@
 	<link href="https://pacovidreport.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pacovidreport.org/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-10-12T00:00:00+00:00</updated>
+	<updated>2022-10-19T00:00:00+00:00</updated>
 	<id>https://pacovidreport.org/atom.xml</id>
+	<entry xml:lang="en">
+		<title>2022-10-19</title>
+		<published>2022-10-19T00:00:00+00:00</published>
+		<updated>2022-10-19T00:00:00+00:00</updated>
+		<link href="https://pacovidreport.org/20221019/" type="text/html"/>
+		<id>https://pacovidreport.org/20221019/</id>
+		<content type="html">&lt;h1 id=&quot;allegheny-county-pennsylvania-covid-hospitalization-variants-thread-for-2022-10-19&quot;&gt;Allegheny County &amp;amp; Pennsylvania #covid hospitalization &amp;amp; variants thread for 2022-10-19&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;allegheny-county&quot;&gt;Allegheny County&lt;&#x2F;h2&gt;
+&lt;p&gt;Allegheny reports 950 new cases over 7 days.&lt;br &#x2F;&gt;
+Hospitalizations are -22 to 161&lt;br &#x2F;&gt;
+ICUs are +4 to 25 (72% full)&lt;br &#x2F;&gt;
+7 day avg to 136 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: Substantial&lt;br &#x2F;&gt;
+CDC Community level: Med&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Allegheny_County_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Allegheny_County_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;pennsylvania&quot;&gt;Pennsylvania&lt;&#x2F;h2&gt;
+&lt;p&gt;Pennsylvania reports 10843 new cases over 7 days.&lt;br &#x2F;&gt;
+Hospitalizations are +45 to 1228&lt;br &#x2F;&gt;
+ICUs are +15 to 154 (79% full)&lt;br &#x2F;&gt;
+7 day avg drops to 1536 cases&#x2F;day&lt;br &#x2F;&gt;
+Transmission risk: Substantial&lt;&#x2F;p&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph&quot; &#x2F; style=&quot;float;&quot;&gt;
+&lt;&#x2F;a&gt;
+&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_trunc.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_trunc_sm.png&quot; alt=&quot;Allegheny County Cases, Hospitalizations graph with truncated Y axis&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;td&gt;
+&lt;a href=&quot;Pennsylvania_60days.png&quot; class=&quot;glightbox&quot; data-gallery=&quot;allegheny&quot;&gt;
+  &lt;img src=&quot;Pennsylvania_60days_sm.png&quot; alt=&quot;Allegheny County 60 day Cases, Hospitalizations graph&quot; &#x2F;&gt;
+&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;vaccinations&quot;&gt;Vaccinations&lt;&#x2F;h2&gt;
+&lt;p&gt;In Allegheny County, 72% of the population has had 2 doses of OG vaccine, and 9.6% has
+received the updated bivalent booster (up 1.9% from last week), vs. 6% statewide.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hospitalizations&quot;&gt;Hospitalizations&lt;&#x2F;h2&gt;
+&lt;p&gt;PA counties with full ICU beds due to covid:&lt;br &#x2F;&gt;
+Bradford (2 +covid patients in ICU),
+Tioga (2), Lawrence (1)&lt;&#x2F;p&gt;
+&lt;p&gt;PA-wide hospital census: Using 18063 med&#x2F;surg beds, 201 more than last week, 438 more than 2 weeks ago.&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>2022-10-12</title>
 		<published>2022-10-12T00:00:00+00:00</published>
